@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dreydrey25
-- 👀 I’m interested in coding sometimes
-- 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me: look at yourself in the mirror and say my name 3 times
+When I go to the club, I wanna hear those club classics
+It's like, it's like o(*^＠^*)o
 
 <!---
 dreydrey25/dreydrey25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
